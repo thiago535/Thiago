@@ -8,6 +8,10 @@
 	scroll-behavior: smooth;
 }
 
+html{
+	scroll-behavior: smooth;
+}
+
 img {
 	width: 100%;
 	display: flex;
@@ -372,5 +376,6 @@ footer .column > a {
 		grid-template-columns: 1fr 150px;
 	}
 }
+
 
 
