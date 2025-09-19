@@ -5,6 +5,7 @@
 	outline: none;
 	border: none;
 	box-sizing: border-box;
+	scroll-behavior: smooth;
 }
 
 img {
@@ -370,3 +371,4 @@ footer .column > a {
 		grid-template-columns: 1fr 150px;
 	}
 }
+
