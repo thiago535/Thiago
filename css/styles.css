@@ -20,6 +20,7 @@ a {
 body {
 	font-family: 'Poppins', sans-serif;
 	background-color: #18181b;
+	scroll-behavior: smooth;
 }
 
 nav {
@@ -371,4 +372,5 @@ footer .column > a {
 		grid-template-columns: 1fr 150px;
 	}
 }
+
 
